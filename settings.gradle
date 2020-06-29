@@ -1,0 +1,4 @@
+include ':piri-annotation'
+include ':piri-processor'
+include ':app'
+rootProject.name = "DaggerTest"
